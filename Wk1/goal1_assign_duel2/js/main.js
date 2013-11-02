@@ -17,7 +17,7 @@ Assignment: The Duel - Part 1
 	var round = 1;
 	
     function fight(){
-        alert(playerOneName+":"+playerOneHealth+"  *START*  "+playerTwoName+":"+playerTwoHealth);
+        alert(fighter1+":"+playerOneHealth+"  *START*  "+playerTwoName+":"+playerTwoHealth);
         for (var i = 0; i < 10; i++)
         {
             //random formula is - Math.floor(Math.random() * (max - min) + min);
