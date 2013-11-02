@@ -1,7 +1,9 @@
 /*
 Name: Bethany Prevatt
 Date: November 2, 2013
-Assignment: The Duel - Part 1 
+Assignment: The Duel - Part 2
+
+I am lost on where to go with this beyond the var. 
 */
 
 //self-executing function
@@ -17,7 +19,7 @@ Assignment: The Duel - Part 1
 	var round = 1;
 	
     function fight(){
-        alert(fighter1+":"+playerOneHealth+"  *START*  "+playerTwoName+":"+playerTwoHealth);
+        alert(playerOneName+":"+playerOneHealth+"  *START*  "+playerTwoName+":"+playerTwoHealth);
         for (var i = 0; i < 10; i++)
         {
             //random formula is - Math.floor(Math.random() * (max - min) + min);
