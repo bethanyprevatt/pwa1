@@ -1,3 +1,9 @@
+/*
+Name: Bethany Prevatt
+Date: Nov 2, 2013
+Assignment: JavaScript Practice
+*/
+
 // self-executing function
 (function(){
 
