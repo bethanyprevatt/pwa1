@@ -9,17 +9,10 @@ Assignment: The Duel - Part 1
 
 	console.log("FIGHT!!!");
 	
-	//Player Name
-	var playerOneName = "Spiderman";
-	var playerTwoName = "Batman";
+	//Player Name, damage, health
+	var fighter1 = ["Spiderman", 30, 100];
+	var fighter2 = ["Batman", 30, 100];
 	
-	//player damage
-	var player1Damage = 30;
-	var player2Damage = 30;
-	
-	//player health
-	var playerOneHealth = 100;
-	var playerTwoHealth = 100;
 	
 	var round = 1;
 	
