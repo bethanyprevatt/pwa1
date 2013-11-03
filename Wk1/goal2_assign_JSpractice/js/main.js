@@ -2,6 +2,8 @@
 Name: Bethany Prevatt
 Date: Nov 2, 2013
 Assignment: JavaScript Practice
+
+I know I learned some of this before, but I am not getting this. I'm confused by the code you have in there.
 */
 
 // self-executing function
