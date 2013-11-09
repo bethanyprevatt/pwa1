@@ -63,7 +63,8 @@ I know I learned some of this before, but I am not getting this. I'm confused by
     //--------------------------------------------------------
     console.log("2. concat first and last name");
 
-        //PUT FUNCTION HERE
+        var firstName = "James";
+        var lastName = "Bond";
 
     console.log(fullName('James', 'Bond'));
 
